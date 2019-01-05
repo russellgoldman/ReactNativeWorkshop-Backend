@@ -1,0 +1,38 @@
+{
+    "000": {
+        "name": "Strawberry",
+        "type": "Fruit",
+        "description": "The garden strawberry is a widely grown hybrid species of the genus Fragaria, collectively known as the strawberries. It is cultivated worldwide for its fruit. The fruit is widely appreciated for its characteristic aroma, bright red color, juicy texture, and sweetness.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PerfectStrawberry.jpg/220px-PerfectStrawberry.jpg"
+    },
+    "001": {
+        "name": "Blueberry",
+        "type": "Fruit",
+        "description": "Blueberries are perennial flowering plants with blue– or purple–colored berries. They are classified in the section Cyanococcus within the genus Vaccinium. Vaccinium also includes cranberries, bilberries, and huckleberries.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/PattsBlueberries.jpg/220px-PattsBlueberries.jpg"
+    },
+    "002": {
+        "name": "Celery",
+        "type": "Vegetable",
+        "description": "Celery is a marshland plant in the family Apiaceae that has been cultivated as a vegetable since antiquity. Celery has a long fibrous stalk tapering into leaves. Depending on location and cultivar, either its stalks, leaves, or hypocotyl are eaten and used in cooking.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF98z5hx6lY2m5_ktuSPfGIDmFGPSX3R5w2GT-OwMZT0ngutXs8Q"
+    },
+    "003": {
+        "name": "Carrot",
+        "type": "Vegetable",
+        "description": "The carrot is a root vegetable, usually orange in colour but also a red-white blend, with a crisp texture when fresh. The edible part of a carrot is a taproot. It is a domesticated form of the wild carrot Daucus carota, native to Europe and southwestern Asia.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/13-08-31-wien-redaktionstreffen-EuT-by-Bi-frie-037.jpg/220px-13-08-31-wien-redaktionstreffen-EuT-by-Bi-frie-037.jpg"
+    },
+    "004": {
+        "name": "Penne",
+        "type": "Pasta",
+        "description": "Penne is a type of pasta with cylinder-shaped pieces. Penne is the plural form of the Italian penna, deriving from Latin penna, and is a cognate of the English word pen. When this format was created in the 19th century it was supposed to imitate the fountain pen's steel nibs.",
+        "img": "https://cdn.shopify.com/s/files/1/1935/9089/products/rustichella-d-abruzzo-durum-penne-pasta_1_530x@2x.jpg?v=1496859212"
+    },
+    "005": {
+        "name": "Tomato Soup",
+        "type": "Soup",
+        "description": "Tomato soup is a soup made with tomatoes as the primary ingredient. It may be served hot or cold in a bowl, and may be made in a variety of ways. It may be smooth in texture, and there are also recipes which include chunks of tomato, cream and chicken/vegetable stock.",
+        "img": "https://s3.amazonaws.com/finecooking.s3.tauntonclud.com/app/uploads/2017/04/18173927/051091055_01-main.jpg"
+    }
+}
